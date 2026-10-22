@@ -150,6 +150,6 @@ By completing these practicals, a learner gains hands-on experience with data ex
 
 ## Author
 
-**Name:** Add your name here  
-**Course:** Add your course / programme here  
-**Institution:** Add your institution here
+**Name:** GOWRI SHANKARI S
+**Course:** MBA
+**Institution:** RVS COLLEGE OF ARTS AND SCIENCE
